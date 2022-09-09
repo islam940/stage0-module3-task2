@@ -2,8 +2,8 @@ package lang.print.gaps.task2;
 
 public class NamingConvention {
     public static void main(String[] args) {
-        int variAble = 10;
-        int variableOne = 1;
+        int variable_ = 10;
+        int variable_one = 1;
         int variableTwo = 2;
         int variableThree = 3;
         final int variableFour = 4;
